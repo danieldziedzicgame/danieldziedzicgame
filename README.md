@@ -51,11 +51,11 @@ A project focused on visual effects (VFX) creation and the asset integration pip
 
 ## Moje projekty graficzne w Photoshopie oraz Illustratorze
 
-[lody_gotowe.pdf](https://github.com/user-attachments/files/28979059/lody_gotowe.pdf)
-
-<img width="2473" height="1902" alt="Game_cover" src="https://github.com/user-attachments/assets/5648bd17-053c-4a44-a7b8-e0682407c41c" />
+<img width="1654" height="2339" alt="lody_gotowe" src="https://github.com/user-attachments/assets/3470d056-5f68-43bc-a5e4-161b3e8bbe04" />
+<img width="1654" height="2339" alt="SoloLeveling" src="https://github.com/user-attachments/assets/1faf98eb-44e1-4316-a0b7-797eab724d25" />
 <img width="3508" height="5126" alt="Game_poster" src="https://github.com/user-attachments/assets/5c10b2e3-a9dd-4821-9313-efc96fed8f22" />
 <img width="1080" height="1350" alt="reklama_linkedin" src="https://github.com/user-attachments/assets/c7b1a4d6-30e9-4866-bb04-8a1aeb84a249" />
-<img width="3508" height="5126" alt="Game_poster" src="https://github.com/user-attachments/assets/6e571056-9ee2-401e-a33c-e97f09ce3859" />
+<img width="2473" height="1902" alt="Game_cover" src="https://github.com/user-attachments/assets/5648bd17-053c-4a44-a7b8-e0682407c41c" />
+
 
 
