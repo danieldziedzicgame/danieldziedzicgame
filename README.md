@@ -22,6 +22,8 @@ Witam w moim portfolio! Jestem twórcą gier z doświadczeniem w Unity, Unreal E
 
 ## 🏃‍♂️ Projekt 2: Kregle Dinozaury (Blender- zadanie na studia)
 
+▶️ **[Kliknij tutaj, aby obejrzeć Gameplay na YouTube](https://youtu.be/KZZKWuvJLto)**
+
 **Created by:** Daniel Dziedzic  
 **Email:** danieldziedzicgame@gmail.com  
 A university project created as an unconventional approach to a standard "bowling ball and pins" animation assignment. Rather than using typical objects, I brought my own unique vision to life. Instead of standard pins, the scene features custom, fully animated 3D dinosaur models. In place of a regular bowling ball, a meteorite crashes into the scene, scoring a spectacular "strike" on the herd of dino-pins.
@@ -31,13 +33,29 @@ A university project created as an unconventional approach to a standard "bowlin
 * **Character Animation:** Set up rigs and animated the dinosaurs (idle movements) to blend naturally with the environment.
 * **Physics & Dynamics:** Configured Rigid Body physics to simulate a realistic, high-impact collision during the strike.
 
-### 🛠️ Technologie i Zasoby / Tools & Resources
-* **Software:** Blender (Cycles / Eevee Renderer)
-* **Environment Asset:** Prehistoric Landscape downloaded from Sketchfab *(Created by: [Tutaj wpisz nick autora ze Sketchfab])*
-* **3D Models & Animation:** Original / Autorskie
 
 ---
 
-## 🎨 Projekt 3: Modele 3D i Grafika (Blender / Photoshop)
+## 🎨 Projekt 3: 
 
-*(Tutaj w przyszłości przeciągniesz swoje screeny i okładki)*
+▶️ **[Kliknij tutaj, aby obejrzeć Gameplay na YouTube]([https://youtu.be/KZZKWuvJLto](https://youtu.be/D81GgVtBx1U))**
+
+**Created by:** Daniel Dziedzic  
+**Email:** danieldziedzicgame@gmail.com  
+A project focused on visual effects (VFX) creation and the asset integration pipeline between Blender and Unity. I created the base fire model and effect in Blender, and then imported it into the Unity engine. Once in the engine, I brought it to life by configuring animations and emissive materials, allowing the fire to dynamically glow in the dark and illuminate its surroundings. To enhance the overall visual composition, I added a rising smoke effect and integrated additional environmental 3D models downloaded from Sketchfab.
+
+* **VFX & Pipeline:** Seamless asset integration between Blender and Unity.
+* **Materials & Lighting:** Configured emissive materials in Unity to achieve a dynamic, realistic glow in low-light environments.
+* **Environment & Polish:** Added rising smoke effects to the campfire and integrated additional 3D models from Sketchfab to enhance the visual presentation.
+
+
+## Moje projekty graficzne w Photoshopie oraz Illustratorze
+
+[lody_gotowe.pdf](https://github.com/user-attachments/files/28979059/lody_gotowe.pdf)
+
+<img width="2473" height="1902" alt="Game_cover" src="https://github.com/user-attachments/assets/5648bd17-053c-4a44-a7b8-e0682407c41c" />
+<img width="3508" height="5126" alt="Game_poster" src="https://github.com/user-attachments/assets/5c10b2e3-a9dd-4821-9313-efc96fed8f22" />
+<img width="1080" height="1350" alt="reklama_linkedin" src="https://github.com/user-attachments/assets/c7b1a4d6-30e9-4866-bb04-8a1aeb84a249" />
+<img width="3508" height="5126" alt="Game_poster" src="https://github.com/user-attachments/assets/6e571056-9ee2-401e-a33c-e97f09ce3859" />
+
+
