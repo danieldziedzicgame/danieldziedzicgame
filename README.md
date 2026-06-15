@@ -48,8 +48,26 @@ A project focused on visual effects (VFX) creation and the asset integration pip
 * **Materials & Lighting:** Configured emissive materials in Unity to achieve a dynamic, realistic glow in low-light environments.
 * **Environment & Polish:** Added rising smoke effects to the campfire and integrated additional 3D models from Sketchfab to enhance the visual presentation.
 
+## 🌐 Projekt 4: Klima-Tu.com – Komercyjna Strona Internetowa
 
-## Moje projekty graficzne w Photoshopie oraz Illustratorze
+▶️ **[Odwiedź stronę na żywo / Visit the live website](https://klima-tu.com/)**
+A commercial, fully responsive website developed for an HVAC (heating, ventilation, and air conditioning) company. The core codebase was generated utilizing Claude AI, which I then manually customized, expanded, and successfully deployed to a live environment.
+
+**Technical Highlights & My Contributions:**
+* **Backend Integration (Firebase):** Set up and integrated Firebase services to handle the website's contact form, enabling seamless, direct email notifications for client inquiries.
+* **Frontend Customization:** Manually implemented page routing, navigation logic, and significantly modified the base UI structure.
+* **Asset Processing:** Edited, optimized, and integrated all visual assets and images to ensure a professional and polished look.
+
+---
+
+### 🛠️ Technologie i Zasoby / Tools & Resources
+* **Web Tech:** HTML, CSS, JavaScript
+* **Backend / BaaS:** Firebase (Contact Form functionality)
+* **AI-Assisted Development:** Claude AI (Core structure generation)
+* **Design:** Adobe Photoshop (Image editing and optimization)
+
+---
+## 🎨 My Graphic Design Projects (Photoshop & Illustrator)
 
 <img width="1654" height="2339" alt="lody_gotowe" src="https://github.com/user-attachments/assets/3470d056-5f68-43bc-a5e4-161b3e8bbe04" />
 <img width="1654" height="2339" alt="SoloLeveling" src="https://github.com/user-attachments/assets/1faf98eb-44e1-4316-a0b7-797eab724d25" />
