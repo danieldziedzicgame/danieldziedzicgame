@@ -1,6 +1,9 @@
 # 🎮 Game Development Portfolio - Daniel Dziedzic
 
 Welcome to my portfolio! I am a game developer with experience in Unity, Unreal Engine, and Blender. Below you will find a selection of my most important projects.
+Daniel Dziedzic
+**Email:** danieldziedzicgame@gmail.com  
+**Phone:** +48 534 580 124
 
 ---
 
