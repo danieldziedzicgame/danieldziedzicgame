@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a game developer with experience in Unity, Unreal 
 
 ---
 
-## 🚪 Project 1: Escape House (Unity)
+##Project 1: Escape House (Unity)
 
 ▶️ **[Click here to watch the Gameplay on YouTube](https://www.youtube.com/watch?v=FUWT4VYUTXI&list=PLM1K2A0XObbM)**
 
@@ -23,7 +23,7 @@ Welcome to my portfolio! I am a game developer with experience in Unity, Unreal 
 
 ---
 
-## 🦖 Project 2: Dino-Strike Animation (Blender - University Project)
+##Project 2: Dino-Strike Animation (Blender - University Project)
 
 ▶️ **[Click here to watch the Animation on YouTube](https://youtu.be/KZZKWuvJLto)**
 
@@ -39,7 +39,7 @@ A university project created as an unconventional approach to a standard "bowlin
 
 ---
 
-## 🔥 Project 3: Real-Time Fire VFX (Blender & Unity)
+##Project 3: Real-Time Fire VFX (Blender & Unity)
 
 ▶️ **[Click here to watch the VFX showcase on YouTube](https://youtu.be/D81GgVtBx1U)**
 
@@ -55,7 +55,7 @@ A project focused on visual effects (VFX) creation and the asset integration pip
 
 ---
 
-## 🌐 Project 4: Klima-Tu.com – Commercial Website
+##Project 4: Klima-Tu.com – Commercial Website
 
 ▶️ **[Visit the live website](https://klima-tu.com/)**
 
@@ -66,7 +66,7 @@ A commercial, fully responsive website developed for an HVAC (heating, ventilati
 * **Frontend Customization:** Manually implemented page routing, navigation logic, and significantly modified the base UI structure.
 * **Asset Processing:** Edited, optimized, and integrated all visual assets and images to ensure a professional and polished look.
 
-### 🛠️ Tools & Resources
+###Tools & Resources
 * **Web Tech:** HTML, CSS, JavaScript
 * **Backend / BaaS:** Firebase (Contact Form functionality)
 * **AI-Assisted Development:** Claude AI (Core structure generation)
@@ -74,7 +74,7 @@ A commercial, fully responsive website developed for an HVAC (heating, ventilati
 
 ---
 
-## 🎨 My Graphic Design Projects (Photoshop & Illustrator)
+##My Graphic Design Projects (Photoshop & Illustrator)
 
 <img width="1654" height="2339" alt="lody_gotowe" src="https://github.com/user-attachments/assets/3470d056-5f68-43bc-a5e4-161b3e8bbe04" />
 <img width="1654" height="2339" alt="SoloLeveling" src="https://github.com/user-attachments/assets/1faf98eb-44e1-4316-a0b7-797eab724d25" />
