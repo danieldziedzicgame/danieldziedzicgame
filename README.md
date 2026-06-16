@@ -7,7 +7,7 @@ Welcome to my portfolio! I am a game developer with experience in Unity, Unreal 
 
 ---
 
-##Project 1: Escape House (Unity)
+## Project 1: Escape House (Unity)
 
 ▶️ **[Click here to watch the Gameplay on YouTube](https://www.youtube.com/watch?v=FUWT4VYUTXI&list=PLM1K2A0XObbM)**
 
