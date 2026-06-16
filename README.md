@@ -1,12 +1,12 @@
-# 🎮 Portfolio Gamedev - Daniel Dziedzic
+# 🎮 Game Development Portfolio - Daniel Dziedzic
 
-Witam w moim portfolio! Jestem twórcą gier z doświadczeniem w Unity, Unreal Engine oraz Blenderze. Poniżej znajdziesz moje najważniejsze projekty.
+Welcome to my portfolio! I am a game developer with experience in Unity, Unreal Engine, and Blender. Below you will find a selection of my most important projects.
 
 ---
 
-## 🚪 Projekt 1: Escape House (Unity)
+## 🚪 Project 1: Escape House (Unity)
 
-▶️ **[Kliknij tutaj, aby obejrzeć Gameplay na YouTube](https://www.youtube.com/watch?v=FUWT4VYUTXI&list=PLM1K2A0XObbM)**
+▶️ **[Click here to watch the Gameplay on YouTube](https://www.youtube.com/watch?v=FUWT4VYUTXI&list=PLM1K2A0XObbM)**
 
 **Created by:** Daniel Dziedzic  
 **Email:** danieldziedzicgame@gmail.com  
@@ -20,12 +20,13 @@ Witam w moim portfolio! Jestem twórcą gier z doświadczeniem w Unity, Unreal E
 
 ---
 
-## 🏃‍♂️ Projekt 2: Kregle Dinozaury (Blender- zadanie na studia)
+## 🦖 Project 2: Dino-Strike Animation (Blender - University Project)
 
-▶️ **[Kliknij tutaj, aby obejrzeć Gameplay na YouTube](https://youtu.be/KZZKWuvJLto)**
+▶️ **[Click here to watch the Animation on YouTube](https://youtu.be/KZZKWuvJLto)**
 
 **Created by:** Daniel Dziedzic  
 **Email:** danieldziedzicgame@gmail.com  
+
 A university project created as an unconventional approach to a standard "bowling ball and pins" animation assignment. Rather than using typical objects, I brought my own unique vision to life. Instead of standard pins, the scene features custom, fully animated 3D dinosaur models. In place of a regular bowling ball, a meteorite crashes into the scene, scoring a spectacular "strike" on the herd of dino-pins.
 
 **Technical Highlights:**
@@ -33,24 +34,28 @@ A university project created as an unconventional approach to a standard "bowlin
 * **Character Animation:** Set up rigs and animated the dinosaurs (idle movements) to blend naturally with the environment.
 * **Physics & Dynamics:** Configured Rigid Body physics to simulate a realistic, high-impact collision during the strike.
 
-
 ---
 
-## 🎨 Projekt 3: 
+## 🔥 Project 3: Real-Time Fire VFX (Blender & Unity)
 
-▶️ **[Kliknij tutaj, aby obejrzeć Gameplay na YouTube]([https://youtu.be/KZZKWuvJLto](https://youtu.be/D81GgVtBx1U))**
+▶️ **[Click here to watch the VFX showcase on YouTube](https://youtu.be/D81GgVtBx1U)**
 
 **Created by:** Daniel Dziedzic  
 **Email:** danieldziedzicgame@gmail.com  
+
 A project focused on visual effects (VFX) creation and the asset integration pipeline between Blender and Unity. I created the base fire model and effect in Blender, and then imported it into the Unity engine. Once in the engine, I brought it to life by configuring animations and emissive materials, allowing the fire to dynamically glow in the dark and illuminate its surroundings. To enhance the overall visual composition, I added a rising smoke effect and integrated additional environmental 3D models downloaded from Sketchfab.
 
+**Technical Highlights:**
 * **VFX & Pipeline:** Seamless asset integration between Blender and Unity.
 * **Materials & Lighting:** Configured emissive materials in Unity to achieve a dynamic, realistic glow in low-light environments.
 * **Environment & Polish:** Added rising smoke effects to the campfire and integrated additional 3D models from Sketchfab to enhance the visual presentation.
 
-## 🌐 Projekt 4: Klima-Tu.com – Komercyjna Strona Internetowa
+---
 
-▶️ **[Odwiedź stronę na żywo / Visit the live website](https://klima-tu.com/)**
+## 🌐 Project 4: Klima-Tu.com – Commercial Website
+
+▶️ **[Visit the live website](https://klima-tu.com/)**
+
 A commercial, fully responsive website developed for an HVAC (heating, ventilation, and air conditioning) company. The core codebase was generated utilizing Claude AI, which I then manually customized, expanded, and successfully deployed to a live environment.
 
 **Technical Highlights & My Contributions:**
@@ -58,15 +63,14 @@ A commercial, fully responsive website developed for an HVAC (heating, ventilati
 * **Frontend Customization:** Manually implemented page routing, navigation logic, and significantly modified the base UI structure.
 * **Asset Processing:** Edited, optimized, and integrated all visual assets and images to ensure a professional and polished look.
 
----
-
-### 🛠️ Technologie i Zasoby / Tools & Resources
+### 🛠️ Tools & Resources
 * **Web Tech:** HTML, CSS, JavaScript
 * **Backend / BaaS:** Firebase (Contact Form functionality)
 * **AI-Assisted Development:** Claude AI (Core structure generation)
 * **Design:** Adobe Photoshop (Image editing and optimization)
 
 ---
+
 ## 🎨 My Graphic Design Projects (Photoshop & Illustrator)
 
 <img width="1654" height="2339" alt="lody_gotowe" src="https://github.com/user-attachments/assets/3470d056-5f68-43bc-a5e4-161b3e8bbe04" />
