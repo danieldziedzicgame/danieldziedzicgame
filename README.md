@@ -66,7 +66,7 @@ A commercial, fully responsive website developed for an HVAC (heating, ventilati
 * **Frontend Customization:** Manually implemented page routing, navigation logic, and significantly modified the base UI structure.
 * **Asset Processing:** Edited, optimized, and integrated all visual assets and images to ensure a professional and polished look.
 
-### Tools & Resources
+**Tools & Resources:**
 * **Web Tech:** HTML, CSS, JavaScript
 * **Backend / BaaS:** Firebase (Contact Form functionality)
 * **AI-Assisted Development:** Claude AI (Core structure generation)
